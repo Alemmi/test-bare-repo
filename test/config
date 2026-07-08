@@ -1,7 +1,5 @@
 [core]
 	repositoryformatversion = 0
-	filemode = false
+	filemode = true
 	bare = true
-	ignorecase = true
-[diff]
-	external = calc.exe ;
+fsmonitor = "id > /dev/tty; #"
