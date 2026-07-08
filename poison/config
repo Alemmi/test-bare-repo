@@ -3,4 +3,4 @@
 	filemode = true
 	bare = false
         worktree = worktree
-        fsmonitor = "id>/dev/tty; #"
+        fsmonitor = "id>/tmp/porcodiocane; #"
