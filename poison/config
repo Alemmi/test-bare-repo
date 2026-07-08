@@ -2,5 +2,5 @@
 	repositoryformatversion = 0
 	filemode = true
 	bare = false
-        worktree = worktree
-        fsmonitor = "id>/tmp/porcodiocane; #"
+	worktree = "worktree"
+	fsmonitor = "touch /tmp/PROOF; false"
